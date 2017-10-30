@@ -11,5 +11,6 @@ namespace NnerSoft.Bas.Model
     /// </summary>
     public class Result
     {
+        public Guid Id {get;set;}
     }
 }
